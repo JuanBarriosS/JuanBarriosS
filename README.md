@@ -58,10 +58,6 @@
     src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
     alt="Flutter" 
   />
-  <img 
-    src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" 
-    alt="Neo4j" 
-  />
 </p>
 <p align="left">
   💼 <strong>Herramientas:</strong>
@@ -103,7 +99,7 @@
       alt="Email" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/[tu-linkedin]/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-barrios28/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
@@ -112,5 +108,5 @@
 </p>
 
 ------
-**Créditos:** [Camilo](https://github.com/[tu-usuario])  
+**Créditos:** [Camilo](https://github.com/JuanBarriosS)  
 **Última edición:** 06/09/2026
