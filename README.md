@@ -8,7 +8,7 @@
 />
 <h1 align="left">¡Hola! Soy <code>&lt;/Camilo&gt;</code></h1>
 <p align="left">
-  Soy <strong>Desarrollador de Software Full-Stack</strong>, con experiencia en desarrollo web, APIs backend, bases de datos e interfaces interactivas. Me gusta combinar creatividad y tecnología, y aquí comparto proyectos personales y profesionales mientras sigo mejorando mis habilidades.
+  Soy <strong>Desarrollador de Software Full-Stack</strong>, con experiencia en desarrollo web, APIs backend, videojuegos y pipelines de datos/NLP. Me gusta combinar creatividad y tecnología, y aquí comparto proyectos personales y profesionales mientras sigo mejorando mis habilidades.
 </p>
 <p align="left">
   🛠️ <strong>Tecnologías con las que trabajo:</strong>
@@ -58,6 +58,10 @@
     src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
     alt="Flutter" 
   />
+  <img 
+    src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" 
+    alt="Neo4j" 
+  />
 </p>
 <p align="left">
   💼 <strong>Herramientas:</strong>
@@ -106,6 +110,8 @@
     />
   </a>
 </p>
+
+<br clear="both">
 
 ------
 **Créditos:** [Camilo](https://github.com/JuanBarriosS)  
