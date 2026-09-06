@@ -1,24 +1,15 @@
-<table>
-<tr>
-<td valign="top" width="60%">
-
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="illustration of a computer" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right" 
+/>
 <h1 align="left">¡Hola! Soy <code>&lt;/Camilo&gt;</code></h1>
 <p align="left">
   Soy <strong>Desarrollador de Software Full-Stack</strong>, con experiencia en desarrollo web, APIs backend, videojuegos y pipelines de datos/NLP. Me gusta combinar creatividad y tecnología, y aquí comparto proyectos personales y profesionales mientras sigo mejorando mis habilidades.
 </p>
-
-</td>
-<td valign="top" width="40%">
-
-<img 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-  alt="illustration of a computer" 
-  width="400px" 
-/>
-
-</td>
-</tr>
-</table>
 
 <p align="left">
   🛠️ <strong>Tecnologías con las que trabajo:</strong>
@@ -116,5 +107,6 @@
     />
   </a>
 </p>
+
 **Créditos:** [Camilo](https://github.com/JuanBarriosS)  
 **Última edición:** 06/09/2026
