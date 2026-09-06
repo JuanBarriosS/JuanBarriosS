@@ -6,7 +6,7 @@
   width="400px" 
   align="right" 
 />
-<h1 align="left">¡Hola! Soy <code>&lt;/Camilo&gt;</code></h1>
+<h3 align="left">¡Hola! Soy <code>&lt;/Camilo&gt;</code></h3>
 <p align="left">
   Soy <strong>Desarrollador de Software Full-Stack</strong>, con experiencia en desarrollo web, APIs backend, videojuegos y pipelines de datos/NLP. Me gusta combinar creatividad y tecnología, y aquí comparto proyectos personales y profesionales mientras sigo mejorando mis habilidades.
 </p>
