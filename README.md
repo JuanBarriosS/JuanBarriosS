@@ -15,6 +15,14 @@
 </p>
 <p align="left">
   <img 
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    alt="HTML5" 
+  />
+  <img 
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    alt="CSS3" 
+  />
+  <img 
     src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
     alt="React" 
   />
@@ -43,8 +51,16 @@
     alt="MongoDB" 
   />
   <img 
-    src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" 
-    alt="Godot Engine" 
+    src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" 
+    alt="Tailwind CSS" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
+    alt="Flutter" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" 
+    alt="Neo4j" 
   />
 </p>
 <p align="left">
@@ -59,6 +75,10 @@
     src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" 
     alt="VS Code" 
   />
+  <img 
+    src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" 
+    alt="Jira" 
+  />
 </p>
 <p align="left">
   🌍 <strong>Idiomas:</strong>
@@ -67,6 +87,10 @@
   <img 
     src="https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge" 
     alt="Español" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Inglés-Básico-blue?style=for-the-badge" 
+    alt="Inglés" 
   />
 </p>
 <p align="left">
