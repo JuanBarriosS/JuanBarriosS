@@ -107,5 +107,4 @@
   </a>
 </p>
 
-**Créditos:** [Camilo](https://github.com/JuanBarriosS)  
-**Última edición:** 06/09/2026
+
