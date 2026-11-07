@@ -1,6 +1,6 @@
-<h1 align="left">¡Hola! Soy <code>&lt;/Juan&gt;</code></h1>
+<h1 align="left">Hi! I'm <code>&lt;/Juan&gt;</code></h1>
 <p align="left">
-  Soy <strong>Desarrollador de Software Full-Stack</strong>, con experiencia en desarrollo web, APIs backend, bases de datos e interfaces interactivas. Me gusta combinar creatividad y tecnología, y aquí comparto proyectos personales y profesionales mientras sigo mejorando mis habilidades.
+  I'm a <strong>Full-Stack Software Developer</strong>, with experience in web development, backend APIs, databases, and interactive interfaces. I like combining creativity and technology, and here I share personal and professional projects while I keep improving my skills.
 </p>
 
 <img 
@@ -11,7 +11,7 @@
 />
 
 <p align="left">
-  🛠️ <strong>Tecnologías con las que trabajo:</strong>
+  🛠️ <strong>Technologies I work with:</strong>
 </p>
 <p align="left">
   <img 
@@ -60,7 +60,7 @@
   />
 </p>
 <p align="left">
-  💼 <strong>Herramientas:</strong>
+  💼 <strong>Tools:</strong>
 </p>
 <p align="left">
   <img 
@@ -77,20 +77,20 @@
   />
 </p>
 <p align="left">
-  🌍 <strong>Idiomas:</strong>
+  🌍 <strong>Languages:</strong>
 </p>
 <p align="left">
   <img 
-    src="https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge" 
-    alt="Español" 
+    src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
+    alt="Spanish" 
   />
   <img 
-    src="https://img.shields.io/badge/Inglés-Básico-blue?style=for-the-badge" 
-    alt="Inglés" 
+    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
+    alt="English" 
   />
 </p>
 <p align="left">
-  💌 Contáctame: ⤵️
+  💌 Contact me: ⤵️
 </p>
 <p align="left">
   <a href="mailto:[tu-email]">
@@ -106,5 +106,3 @@
     />
   </a>
 </p>
-
-
